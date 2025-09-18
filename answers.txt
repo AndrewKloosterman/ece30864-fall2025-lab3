@@ -20,4 +20,7 @@ c) 1) Sprint Planning Meeting
         - Discuss work completed vs not completed and move appropriate stories to "Done" or backlog
         - Discuss new implementations on completed or worked on stories to see if new features may want to be added.
 
- 
+d) An Epic is the highest level of hierarchy in JIRA and contains stories. These are overacrching features that need to be done, but are too broad to be considered a single story. For example an epic could be "Create a customizable UI"
+A story are usually substructures of Epics and are more specific and tangible in tasks. It gives a specific feature or sub-feature that can be created by a developer, usually within a single sprint (2-3 weeks).
+A bug is a small problem with an exising feature or hand-off point of features that prevents the features(s) to function correctly. They typically arise after a story has been/is being developed. They usually are blockers for future stories to be completed.
+A Task is very similar to a story, but is more tangible and direct. They are usually used to support epics and stories in their development progress. They may not always correspond to a feature that a client has requested, but is necessary to deliver a final product.
