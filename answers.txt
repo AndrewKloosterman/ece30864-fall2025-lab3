@@ -14,7 +14,7 @@ c) 1) Sprint Planning Meeting
         - Determines what stories need to be completed in the next sprint by moving storeis from the backlog.
         - Determining the story points and assigning team members to stories, per the skillsets.
     2) Daily Scrum/Standup Meeting
-        - Short daily meetings (~10 minutes) to discuss specific progress/questions on a story during the sprint
+        - Short daily meetings (~10 minutes) to discuss specific progress/questions on a story during the sprint.
         - Work completed, progress, as well as any unforeseen blockers and bugs are brought up
     3) Sprint Retrospective Meeting
         - Discuss work completed vs not completed and move appropriate stories to "Done" or backlog
