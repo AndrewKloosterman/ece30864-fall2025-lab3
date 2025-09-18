@@ -10,3 +10,14 @@ This applies to overarching tasks such as security and robustness, where these t
 b) A scrum master's role relates to all SCRUM related tasks. This includes JIRA creating and maintenences, facillitating stories, determining what is included in sprints. They are the bridge between the project managers goals and the development teams techinical capabilities.
 The role of a product owner is different then the scrum master's as they are in charge of setting the overall direction of the team, and dealing with the semantics with stake holders and clients. They bring the overall picture to the SCRUM master.
 
+c) 1) Sprint Planning Meeting
+        - Determines what stories need to be completed in the next sprint by moving storeis from the backlog.
+        - Determining the story points and assigning team members to stories, per the skillsets.
+    2) Daily Scrum/Standup Meeting
+        - Short daily meetings (~10 minutes) to discuss specific progress/questions on a story during the sprint
+        - Work completed, progress, as well as any unforeseen blockers and bugs are brought up
+    3) Sprint Retrospective Meeting
+        - Discuss work completed vs not completed and move appropriate stories to "Done" or backlog
+        - Discuss new implementations on completed or worked on stories to see if new features may want to be added.
+
+ 
