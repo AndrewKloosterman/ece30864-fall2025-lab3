@@ -6,3 +6,7 @@ One con of agile development is that when requirements are fixed, it may not be 
 Although this is rarely the case, in the event that a products features are fixed and well defined, taking an agile method could be a potential waste of clients time. A non-agile method where a precise plan can be made to implement this fetaure would be preferred in this case.
 A second con is that in some situations where a task is too large to be split up into sprints, it can be difficult to manage these tasks.
 This applies to overarching tasks such as security and robustness, where these tasks apply to all aspects of the product. It is hard to define these as stories in a sprint.
+
+b) A scrum master's role relates to all SCRUM related tasks. This includes JIRA creating and maintenences, facillitating stories, determining what is included in sprints. They are the bridge between the project managers goals and the development teams techinical capabilities.
+The role of a product owner is different then the scrum master's as they are in charge of setting the overall direction of the team, and dealing with the semantics with stake holders and clients. They bring the overall picture to the SCRUM master.
+
