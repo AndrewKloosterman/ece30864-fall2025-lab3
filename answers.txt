@@ -1,0 +1,8 @@
+a) One pro of agile development is that it involves constant collaboration with the client on a project.
+This allows for constant client feedback on developing features.
+A second pro would be that it gives the client constant value on a project.
+Rather than having one deliverable at the end of the project, agile development allows customers to begin to use the product in development and gain value from it.
+One con of agile development is that when requirements are fixed, it may not be necessary. 
+Although this is rarely the case, in the event that a products features are fixed and well defined, taking an agile method could be a potential waste of clients time. A non-agile method where a precise plan can be made to implement this fetaure would be preferred in this case.
+A second con is that in some situations where a task is too large to be split up into sprints, it can be difficult to manage these tasks.
+This applies to overarching tasks such as security and robustness, where these tasks apply to all aspects of the product. It is hard to define these as stories in a sprint.
